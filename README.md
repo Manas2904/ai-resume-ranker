@@ -1,33 +1,35 @@
-# 🤖 AI Resume Ranking & Explanation System
+# AI Resume Ranker
 
-An end-to-end AI-powered system that ranks resumes against a job description and generates an intelligent hiring explanation using embeddings and LLMs.
+An AI-powered system that automatically analyzes and ranks resumes based on their relevance to a given job description.
 
----
+The project helps recruiters shortlist candidates faster by evaluating resumes using Natural Language Processing (NLP) and semantic similarity.
 
-## 🚀 Features
+## Features
 
-- Resume ranking using semantic similarity
-- AI-generated hiring explanation
-- Streamlit interactive dashboard
-- UTF-8 safe (Windows compatible)
-- Modular & scalable architecture
+- Upload multiple resumes
+- Compare resumes against a job description
+- AI-based ranking of candidates
+- Semantic similarity matching
+- Explanation of why a resume ranks higher
+- Interactive Streamlit dashboard
 
----
-
-## 🧠 Tech Stack
+## Tech Stack
 
 - Python
-- Machine Learning
 - NLP
 - Sentence Transformers
 - Streamlit
-- LLM Reasoning
+- LLM reasoning
 
----
+## How It Works
 
-## 📊 Dashboard Preview
+1. User uploads multiple resumes
+2. User enters a job description
+3. System extracts text from resumes
+4. NLP embeddings are generated
+5. Semantic similarity is calculated
+6. Resumes are ranked based on relevance
 
-Run the dashboard locally:
+## Installation
 
-```bash
-streamlit run dashboard.py
+Clone the repository
