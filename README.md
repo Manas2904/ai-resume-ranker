@@ -4,6 +4,11 @@ This project is an AI-based Resume Ranker that compares resumes with a job descr
 
 The goal of this project is to help recruiters quickly identify the most relevant candidates and help job seekers understand how well their resumes match a specific role.
 
+## 🚀 Live Demo
+
+**Try the application:**  
+https://manas2904-ai-resume-ranker-app-6rw6zm.streamlit.app/
+
 ## Features
 
 - **Semantic Analysis**: Uses sentence-transformers for deep semantic matching
@@ -93,3 +98,5 @@ streamlit run app.py
 Final Year B.Tech Artificial Intelligence & Machine Learning Student
 
 GitHub: https://github.com/Manas2904
+
+
