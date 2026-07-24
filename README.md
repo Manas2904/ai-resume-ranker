@@ -6,6 +6,12 @@ The goal of this project is to help recruiters quickly identify the most relevan
 
 ## Features
 
+- **Semantic Analysis**: Uses sentence-transformers for deep semantic matching
+- **Keyword Matching**: Extracts and matches keywords between resumes and job descriptions
+- **Skill Extraction**: Identifies AI/ML specific skills from resumes
+- **Smart Scoring**: Combines semantic, keyword, and skill scores for accurate ranking
+- **Match Prediction**: Classifies resumes as Perfect Match, Good Match, or Poor Match
+- **Detailed Analysis**: Shows matched/missing keywords for each resume
 - Upload a Job Description (PDF)
 - Upload multiple resumes
 - Extract text from PDF files
@@ -14,6 +20,12 @@ The goal of this project is to help recruiters quickly identify the most relevan
 - Display overall ATS-inspired score
 - Show matched and missing keywords
 - Rank resumes based on relevance
+
+## Screenshots
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
 
 ## Tech Stack
 
