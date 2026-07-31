@@ -28,9 +28,11 @@ https://manas2904-ai-resume-ranker-app-6rw6zm.streamlit.app/
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
+![Home](screenshots/Screenshot1.png)
+
+![Resume Analysis](screenshots/Screenshot2.png)
+
+![Results](screenshots/Screenshot3.png)
 
 ## Tech Stack
 
